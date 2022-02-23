@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <groups>
+
+
+
+ <group>
+  <name>Main</name>
+  <members>Ibo,null,null</members>
+  <admins>Ibo</admins>
+  <passwort>e54c2a8dbe630637988c8f113dc7525a</passwort>
+  </group>
+
+
+ <group>
+  <name>Test</name>
+  <members>Nico,Ibo</members>
+  <admins>Nico</admins>
+  <passwort>86985e105f79b95d6bc918fb45ec7727</passwort>
+  </group>
+
+
+
+
+ <group>
+  <name>Ibo</name>
+  <members>Ibos,null</members>
+  <admins>Ibos</admins>
+  <passwort>5c377edff55d26a91d1dac720d015b99</passwort>
+  </group>
+
+
+ <group>
+  <name>Ibo</name>
+  <members>Ibos,Ibo,Nico</members>
+  <admins>Ibos</admins>
+  <passwort>5c377edff55d26a91d1dac720d015b99</passwort>
+  </group>
+
+
+
+ <group>
+  <name>Ibo</name>
+  <members>Ibos,Ibo,Nico</members>
+  <admins>Ibos</admins>
+  <passwort>5c377edff55d26a91d1dac720d015b99</passwort>
+  </group>
+
+
+
+ <group>
+  <name>Ibo</name>
+  <members>Ibos,Ibo,Nico</members>
+  <admins>Ibos</admins>
+  <passwort>5c377edff55d26a91d1dac720d015b99</passwort>
+  </group>
+
+
+
+
+  </groups>

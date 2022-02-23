@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+        <chat>
+
+          <message id='1'>
+            <name>Server</name>
+            <inhalt>Welcome</inhalt>
+          </message>
+
+<message id='2'>
+  <name>Nico</name>
+  <inhalt>-table</inhalt>
+</message>
+
+
+        </chat>
